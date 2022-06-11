@@ -1,0 +1,1 @@
+export const emojiMap = { '::happy::': '&#128512;', '::sad::': '&#128546;', '::smiley::': '&#128522;' }
